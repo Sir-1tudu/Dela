@@ -1,0 +1,24 @@
+basic website which is show the user name and the image of the user which are come form the database
+* pages
+	- home(where all the data are show )
+	- login page
+	- create new ac page
+
+data show :-
+image : 
+user name :
+	- first name
+	- last name
+email - 
+age -
+phone no -
+gender - 
+hair color - 
+data and time (current) -
+other details of the user (descriptions)-
+
+
+
+when the new account is open upper data are required 
+
+but when login happed then only name and password is needed or email and password is needed
