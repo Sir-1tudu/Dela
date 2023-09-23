@@ -22,3 +22,15 @@ other details of the user (descriptions)-
 when the new account is open upper data are required 
 
 but when login happed then only name and password is needed or email and password is needed
+
+
+screen size : 
+	750 * 650 - tablet size
+	375 * 665 - mobile size
+
+
+file system :
+-index.html
+-main.js
+	-App.vue
+		-componetns
