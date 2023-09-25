@@ -2,7 +2,6 @@
     <div class="chats">
         <h4>chats:</h4><hr />
         <ol class="list_container">
-            <
             <li v-for="i in names" class="list_of_names">{{ i }}</li>
         </ol>
     </div>

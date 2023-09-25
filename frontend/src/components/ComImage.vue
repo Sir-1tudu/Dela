@@ -32,8 +32,6 @@
             transform: rotateY(360deg);
         }
     }
-
-
     .spin_image {
         animation: spin 4s linear infinite;
     }

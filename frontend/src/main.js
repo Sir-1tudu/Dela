@@ -6,13 +6,12 @@ import UtilityBox from './components/UtilityBox.vue'
 import ChatBox from './components/lower/ChatBox.vue'
 
 
-
 const new_app = createApp(App)
 new_app.component('com-image', ComImage)
 new_app.component('search-box', SearchBox)
 new_app.component('utility-box', UtilityBox)
 
-// lower sections
+//lower box
 new_app.component('chat-box', ChatBox)
 
 new_app.mount('#App')
