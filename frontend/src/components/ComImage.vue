@@ -1,6 +1,6 @@
 <template>  
     <div class="compname">
-        <p>DateApp</p>
+        <p>Dela</p>
         <img src="/thita1.jpg" alt="image" class="spin_image"/>
 <!--size of the image is 100 by 58 in pixel-->
     </div>
@@ -14,6 +14,7 @@
     }
     .compname p{
         padding-left: .5em;
+        width: 4em;
     }
     .compname img{
         height: 1em;
